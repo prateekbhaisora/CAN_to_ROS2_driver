@@ -1,0 +1,24 @@
+[0.514s] Invoking command in '/home/prateek/ros2_ws/src/can_to_ros2_decoder': PYTHONPATH=/home/prateek/ros2_ws/build/can_to_ros2_decoder/prefix_override:/home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/can_to_ros2_decoder build --build-base /home/prateek/ros2_ws/build/can_to_ros2_decoder/build install --record /home/prateek/ros2_ws/build/can_to_ros2_decoder/install.log --single-version-externally-managed install_data
+[0.714s] running egg_info
+[0.715s] writing ../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info/PKG-INFO
+[0.715s] writing dependency_links to ../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info/dependency_links.txt
+[0.715s] writing entry points to ../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info/entry_points.txt
+[0.715s] writing requirements to ../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info/requires.txt
+[0.715s] writing top-level names to ../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info/top_level.txt
+[0.716s] reading manifest file '../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info/SOURCES.txt'
+[0.717s] writing manifest file '../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info/SOURCES.txt'
+[0.717s] running build
+[0.717s] running build_py
+[0.717s] running install
+[0.718s] running install_lib
+[0.719s] running install_data
+[0.719s] running install_egg_info
+[0.720s] removing '/home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/python3.10/site-packages/can_to_ros2_decoder-0.0.0-py3.10.egg-info' (and everything under it)
+[0.720s] Copying ../../build/can_to_ros2_decoder/can_to_ros2_decoder.egg-info to /home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/python3.10/site-packages/can_to_ros2_decoder-0.0.0-py3.10.egg-info
+[0.720s] running install_scripts
+[0.734s] Installing can_data_logger script to /home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/can_to_ros2_decoder
+[0.734s] Installing can_data_sender_test script to /home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/can_to_ros2_decoder
+[0.734s] Installing can_data_visualizer script to /home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/can_to_ros2_decoder
+[0.734s] Installing can_decoder script to /home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/can_to_ros2_decoder
+[0.735s] writing list of installed files to '/home/prateek/ros2_ws/build/can_to_ros2_decoder/install.log'
+[0.750s] Invoked command in '/home/prateek/ros2_ws/src/can_to_ros2_decoder' returned '0': PYTHONPATH=/home/prateek/ros2_ws/build/can_to_ros2_decoder/prefix_override:/home/prateek/ros2_ws/install/can_to_ros2_decoder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/can_to_ros2_decoder build --build-base /home/prateek/ros2_ws/build/can_to_ros2_decoder/build install --record /home/prateek/ros2_ws/build/can_to_ros2_decoder/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+[console_scripts]
+can_data_logger = can_to_ros2_decoder.can_data_logger:main
+can_data_sender_test = can_to_ros2_decoder.can_data_sender_test:main
+can_data_visualizer = can_to_ros2_decoder.can_data_visualizer:main
+can_decoder = can_to_ros2_decoder.can_decoder:main
+

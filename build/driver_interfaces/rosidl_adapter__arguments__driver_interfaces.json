@@ -1,0 +1,6 @@
+{
+  "package_name": "driver_interfaces",
+  "non_idl_tuples": [
+    "/home/prateek/ros2_ws/src/driver_interfaces:msg/HRCanDataFormat.msg"
+  ]
+}
